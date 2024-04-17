@@ -1,5 +1,4 @@
 import Banner from "@/app/(home)/components/Banner";
-import Image from "next/image";
 import BookList from "./components/BookList";
 import { Suspense } from "react";
 import Loading from "@/components/Loading";
