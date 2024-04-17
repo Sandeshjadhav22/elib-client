@@ -1,7 +1,10 @@
+import Banner from "@/components/Banner";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1>Welcom to elib</h1>
+    <>
+    <Banner/>
+    </>
   );
 }
